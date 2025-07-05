@@ -19,7 +19,7 @@ In diesem Projekt habe ich ein interaktives Power BI-Dashboard entwickelt, das a
 
 ### 🌐 Übersicht (KPI & Trends)
 
-![Exec Dashboard](powerbi-sales-dashboard/ScreenShots/Exec_Dashboard.png)
+![Exec Dashboard](ScreenShots/Exec_Dashboard.png)
 
 ### 💡 Key Influencer & Forecast
 
