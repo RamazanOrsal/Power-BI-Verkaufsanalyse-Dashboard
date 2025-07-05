@@ -21,22 +21,22 @@ In diesem Projekt habe ich ein interaktives Power BI-Dashboard entwickelt, das a
 
 ![Exec Dashboard](ScreenShots/Exec_Dashboard.png)
 
-### 💡 Key Influencer & Forecast
+### 🌍 Geografische Analyse
 
-![AI Insights](ScreenShots/KeyInfluencers- AnimatedBarRaceChart.png)
+![Map View](ScreenShots/Map.png)
 
 ### 🧮 Produktanalyse mit What-if
 
 ![Produkt Detail](ScreenShots/Product_Detail.png)
 
-### 👥 Kundenanalyse & Segmentierung
+### 👥 Kundenanalyse
 
 ![Customer Detail](ScreenShots/Customer_Detail.png)
 
-### 🌍 Geografische Analyse
 
-![Map View](ScreenShots/Map.png)
+### 💡 Key Influencer & AnimatedChart
 
+![AI Insights](ScreenShots/KeyInfluencers- AnimatedBarRaceChart.png)
 
 ## 👤 Autor
 
