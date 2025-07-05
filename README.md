@@ -41,4 +41,4 @@ In diesem Projekt habe ich ein interaktives Power BI-Dashboard entwickelt, das a
 ## 👤 Autor
 
 **Ramazan Örsal**  
-[LinkedIn-Profil ansehen](https://www.linkedin.com/in/ramazan-oersal-dataanalysis)
+[LinkedIn-Profil ansehen]([https://www.linkedin.com/in/ramazan-oersal-dataanalysis](https://www.linkedin.com/in/ramazan-%C3%B6rsal-dataanalyst/?locale=de_DE)
