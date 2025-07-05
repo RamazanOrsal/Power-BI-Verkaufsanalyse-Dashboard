@@ -36,7 +36,7 @@ In diesem Projekt habe ich ein interaktives Power BI-Dashboard entwickelt, das a
 
 ### 💡 Key Influencer & AnimatedChart
 
-![AI Insights](ScreenShots/KeyInfluencers- AnimatedBarRaceChart.png)
+![AI Insights](ScreenShots/KeyInfluencers-AnimatedBarRaceChart.png)
 
 ## 👤 Autor
 
