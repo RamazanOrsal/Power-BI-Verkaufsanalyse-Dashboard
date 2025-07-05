@@ -1,0 +1,40 @@
+# 📊 Power BI Verkaufsanalyse Dashboard
+
+In diesem Projekt habe ich ein interaktives Power BI-Dashboard entwickelt, das auf einem praxisnahen, simulierten Vertriebsdatensatz basiert. Ziel war es, wichtige Geschäftszahlen visuell aufzubereiten und datenbasierte Entscheidungen zu ermöglichen.
+
+## 💡 Highlights
+
+- Interaktives Dashboard mit KPI-Karten
+- Drillthrough- und Drilldown-Funktion
+- What-if-Analyse (z. B. Adjusted Profit)
+- Key Influencer Visual & Forecast (AI Insights)
+- Benutzerdefinierte Tooltips und Bookmarks
+- Datenmodellierung im Sternschema
+
+## 🛠 Verwendete Technologien
+
+- Power BI (DAX, Power Query, M-Code)
+
+## 📷 Screenshots
+
+### 🌐 Übersicht (KPI & Trends)
+
+![Exec Dashboard](powerbi-sales-dashboard/ScreenShots/Exec_Dashboard.png)
+
+### 💡 Key Influencer & Forecast
+
+![AI Insights](screenshots/key_influencers.png)
+
+### 🧮 Produktanalyse mit What-if
+
+![Produkt Detail](screenshots/product_detail.png)
+
+### 🌍 Geografische Analyse
+
+![Map View](screenshots/map_view.png)
+
+
+## 👤 Autor
+
+**Ramazan Örsal**  
+[LinkedIn-Profil ansehen](https://www.linkedin.com/in/ramazan-oersal-dataanalysis)
